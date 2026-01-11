@@ -3,7 +3,7 @@
 <img width="1161" height="565" alt="image" src="https://github.com/user-attachments/assets/e0f0b3d0-d8af-40a7-9f68-29502c1fbce7" />
   
 A production-ready framework for comprehensively evaluating Retrieval-Augmented Generation (RAG) systems using industry-standard metrics and LLM-based evaluation with Groq and LangChain.
-
+ 
 ## Overview
   
 Evaluating RAG systems is challenging because performance depends on two distinct components:

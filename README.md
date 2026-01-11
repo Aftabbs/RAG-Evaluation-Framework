@@ -5,7 +5,7 @@
 A production-ready framework for comprehensively evaluating Retrieval-Augmented Generation (RAG) systems using industry-standard metrics and LLM-based evaluation with Groq and LangChain.
 
 ## Overview
- 
+  
 Evaluating RAG systems is challenging because performance depends on two distinct components:
 1. **Retrieval Quality**: How well the system finds relevant information
 2. **Generation Quality**: How well the LLM synthesizes that information into accurate, relevant answers
